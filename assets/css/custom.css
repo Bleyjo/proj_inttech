@@ -1,0 +1,45 @@
+@import url(//db.onlinewebfonts.com/c/af3da10c5b46a0db2731fe7b7433cf4a?family=Bauhaus+LT+Demi);
+
+@font-face {
+    font-family: "Bauhaus LT Demi"; 
+    src: url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.eot"); 
+    src: url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.woff") format("woff"), url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.svg#Bauhaus LT Demi") format("svg"); 
+}
+
+.SCPFont {
+    font-family: "Bauhaus LT Demi" !important; 
+}
+
+* {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5 {
+    text-align: center;
+}
+
+.center {
+    align-content: center;
+}
+
+.fifty {
+    width: 50%;
+}
+
+.textShadow {
+    text-shadow: 1px 1px 4px black;
+}
+
+body {
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: right;
+    background-color: #2e2e2e;
+    background: url("../img/background.jpg") no-repeat fixed right;
+    color: #f0f0f0;
+}
+
+hr {
+    border: 2px solid white;
+    border-radius: 2px;
+}
