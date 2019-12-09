@@ -1,9 +1,10 @@
-@import url(//db.onlinewebfonts.com/c/af3da10c5b46a0db2731fe7b7433cf4a?family=Bauhaus+LT+Demi);
-
 @font-face {
     font-family: "Bauhaus LT Demi"; 
-    src: url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.eot"); 
-    src: url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.woff") format("woff"), url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/af3da10c5b46a0db2731fe7b7433cf4a.svg#Bauhaus LT Demi") format("svg"); 
+    src: url("af3da10c5b46a0db2731fe7b7433cf4a.eot") format("eot"); 
+    src: url("af3da10c5b46a0db2731fe7b7433cf4a.woff2") format("woff2"), 
+        url("af3da10c5b46a0db2731fe7b7433cf4a.woff") format("woff"), 
+        url("af3da10c5b46a0db2731fe7b7433cf4a.ttf") format("truetype"), 
+        url("af3da10c5b46a0db2731fe7b7433cf4a.svg") format("svg"); 
 }
 
 .SCPFont {
