@@ -16,7 +16,7 @@
 }
 
 h1, h2, h3, h4, h5 {
-    text-align: center;
+    text-align: Left;
 }
 
 .center {
@@ -36,7 +36,7 @@ body {
     background-size: cover;
     background-position: right;
     background-color: #2e2e2e;
-    background: url("../img/background.jpg") no-repeat fixed right;
+    background: url("../img/background.jpg") no-repeat fixed center right;
     color: #f0f0f0;
 }
 
