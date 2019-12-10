@@ -13,7 +13,10 @@ var heading = new Vue({
     el: '#heading',
     data: {
         title: "SCP Conference",
-        subtitle: "A conference for those interested in the SCP Foundation."
+        subtitle: "A conference for those interested in the SCP Foundation.",
+        contact: "Contact US",
+        events: "What's On",
+        location: "How to Get Here"
     }
 });
 
