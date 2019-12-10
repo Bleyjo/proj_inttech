@@ -1,0 +1,23 @@
+
+{"event":[
+    { 
+        "title":"The Art of Professional Unprofessionalism", 
+        "speaker":"Dr. Bright", 
+        "description": "Join Dr. Bright as he talks about his journey through the SCP Foundation and the various things he gets away with." 
+    },
+    { 
+        "title":"How We Build Sites like Site-■■", 
+        "speaker":"Dr. ■■■■■■", 
+        "description": "Join Dr. ■■■■■■ as he explains the architecture and security design features that all SCP Sites have."
+    },
+    { 
+        "title":"SCP Foundation: Our Mission", 
+        "speaker":"Dr. Charles Anborough", 
+        "description": "Join Dr. Charles Anborough as he explains the purpose of the SCP Foundation, its values, and its mission." 
+    },
+    { 
+        "title":"SCP-096: Agressive Monster, or Child in Need of Some Love?", 
+        "speaker":"Dr. ■■■■", 
+        "description": "Join Dr. ■■■■ as she contemplates SCP-096's capacity for love and emotion." 
+    }
+  ]}
