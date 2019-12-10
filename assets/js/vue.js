@@ -12,7 +12,7 @@
 var heading = new Vue({
     el: '#heading',
     data: {
-        title: "SCP Conference <img src=\"assets\\img\\icon.png\" width=\"50px\" />",
+        title: "SCP Conference",
         subtitle: "A conference for those interested in the SCP Foundation."
     }
 });
